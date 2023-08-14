@@ -1,0 +1,17 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore SQLite database file
+pastes.db
+
+# Ignore compiled/built files
+target/
+
+# Ignore environment-specific files
+.env
+
+# Ignore user-specific editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
