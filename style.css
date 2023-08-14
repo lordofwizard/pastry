@@ -10,6 +10,10 @@ h1 {
     padding: 20px;
 }
 
+h5 {
+    text-align: center;
+    padding: 20px;
+}
 form {
     width: 80%;
     max-width: 600px;
